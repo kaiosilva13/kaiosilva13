@@ -1,6 +1,6 @@
 ### *OLÁ! ME CHAMO KAIO VITOR* 😁 
 ##
-Tenho 16 anos e faço o 2° ano do ensino médio/técnico no IFRN - Campus Currais Novos, sou dev junior e a menos de 1 ano atrás
+Tenho 17 anos e faço o 2° ano do ensino médio/técnico no IFRN - Campus Currais Novos, sou dev junior e a menos de 1 ano atrás
 decidir aprofundar meus conhecimentos na área de programação, e desde lá me tornei um amante da área.
 ##
 - 🔭 Trabalhando em pequenos projetos python
