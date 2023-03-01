@@ -9,9 +9,9 @@ Tenho 17 anos e sou estudante de Informática do ensino médio/técnico no IFRN 
   <a href="https://github.com/kaiosilva13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiosilva13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <div style="display: inline_block" align="center"><br>
-  <h3>Linguagens com que trabalho atualmente:</h3>
+  <h3>Tecnologias que estudo atualmente:</h3>
    <abbr title="Python3">
-    <img align="center" alt="James-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </abbr>
 </div>
     
