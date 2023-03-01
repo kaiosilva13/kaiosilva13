@@ -1,9 +1,8 @@
 ### *OLÁ! ME CHAMO KAIO VITOR* 😁 
 ##
-Tenho 17 anos e faço o 2° ano do ensino médio/técnico no IFRN - Campus Currais Novos, sou dev junior e a menos de 1 ano atrás
-decidir aprofundar meus conhecimentos na área de programação, e desde lá me tornei um amante da área.
+Tenho 17 anos e sou estudante de Informática do ensino médio/técnico no IFRN - Campus Currais Novos, sou dev junior e estou em busca de me aprofundar nos conhecimentos da área da tecnologia, sempre disposto a trocar ideias e desenvolver pequenos projetos dentro da área, afim de aprimorar os conhecimentos dentro da tecnologia.
 ##
-- 🔭 Trabalhando em pequenos projetos python
+- 🔭 Aprimorando meus conhecimentos em Python, Html e JavaScript em pequenos projetos.
 - 💬 Futuro técnico em informática/programador
 - 📫 Entre em contato comigo por email em : kaio.vitor@escolar.ifrn.edu.br
 <div align="center">
