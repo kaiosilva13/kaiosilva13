@@ -10,8 +10,14 @@ Tenho 17 anos e sou estudante de Informática do ensino médio/técnico no IFRN 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiosilva13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <div style="display: inline_block" align="center"><br>
   <h3>Tecnologias que estudo atualmente:</h3>
-   <abbr title="Python3">
+  <abbr title="Python3">
     <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </abbr>
+  <abbr title="HTML5">
+    <img align="center" alt="James-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </abbr>
+  <abbr title="JavaScript">
+    <img align="center" alt="James-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   </abbr>
 </div>
     
