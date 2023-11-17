@@ -1,23 +1,29 @@
 ### *OLÁ! ME CHAMO KAIO VITOR* 😁 
 ##
-Tenho 18 anos e sou estudante de Informática do ensino médio/técnico no IFRN - Campus Currais Novos, sou dev junior e estou em busca de me aprofundar nos conhecimentos da área da tecnologia, sempre disposto a trocar ideias e desenvolver pequenos projetos dentro da área.
+Tenho 18 anos e sou estudante de Informática do ensino médio/técnico no IFRN - Campus Currais Novos, sou dev iniciante e estou em busca de me aprofundar nos conhecimentos da área da tecnologia, sempre disposto a trocar ideias e desenvolver pequenos projetos que envolva conhecimentos dentro da área.
 ##
-- 🔭 Aprimorando meus conhecimentos em Python, Html e JavaScript em pequenos projetos.
+- 🔭 Aprimorando meus conhecimentos em Programação constantemente.
 - 💬 Futuro técnico em informática/programador
 - 📫 Entre em contato comigo por email em : kaio.vitor@escolar.ifrn.edu.br
 <div align="center">
   <a href="https://github.com/kaiosilva13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiosilva13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <div style="display: inline_block" align="center"><br>
-  <h3>Tecnologias que estudo atualmente:</h3>
+  <h3>Conhecimentos Técnicos:</h3>
   <abbr title="Python3">
     <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </abbr>
   <abbr title="HTML5">
-    <img align="center" alt="James-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </abbr>
   <abbr title="JavaScript">
-    <img align="center" alt="James-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  </abbr>
+  <abbr title="CSS3">
+    <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </abbr>
+  <abbr title="Git">
+    <img align="center" alt="Git" height="40" width="50" src="http://www.w3.org/2000/svg">
   </abbr>
 </div>
     
