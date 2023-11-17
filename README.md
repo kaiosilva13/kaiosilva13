@@ -2,7 +2,7 @@
 ##
 Tenho 18 anos e sou estudante de Informática do ensino médio/técnico no IFRN - Campus Currais Novos, sou dev iniciante e estou em busca de me aprofundar nos conhecimentos da área da tecnologia, sempre disposto a trocar ideias e desenvolver pequenos projetos que envolva conhecimentos dentro da área.
 ##
-- 🔭 Aprimorando meus conhecimentos em Programação constantemente.
+- 🔭 Aprimorando meus conhecimentos em programação constantemente.
 - 💬 Futuro técnico em informática/programador
 - 📫 Entre em contato comigo por email em : kaio.vitor@escolar.ifrn.edu.br
 <div align="center">
