@@ -26,6 +26,9 @@ Tenho 18 anos e sou estudante de Informática do ensino médio/técnico no IFRN 
   <abbr title="Git">
     <img align="center" alt="Git" height="40" width="50" src="./icons/Git.svg">
   </abbr>
+  <abbr title="MySQL">
+    <img align="center" alt="MySQL" height="40" width="50" src="./icons/MySQL-Light.svg">
+  </abbr>
     
 </div>
     
