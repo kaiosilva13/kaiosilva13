@@ -29,7 +29,8 @@ Tenho 18 anos e sou estudante de Informática do ensino médio/técnico no IFRN 
   <abbr title="MySQL">
     <img align="center" alt="MySQL" height="40" width="50" src="./icons/MySQL-Light.svg">
   </abbr>
-    
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaiosilva13&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
     
 ##
