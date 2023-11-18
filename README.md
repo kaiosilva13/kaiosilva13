@@ -8,7 +8,7 @@ Tenho 18 anos e sou estudante de Informática do ensino médio/técnico no IFRN 
 <br>
 <div align="center">
   <a href="https://github.com/kaiosilva13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiosilva13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiosilva13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <div style="display: inline_block" align="center"><br>
   <h3>Conhecimentos Técnicos:</h3>
   <abbr title="Python3">
