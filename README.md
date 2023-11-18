@@ -5,6 +5,7 @@ Tenho 18 anos e sou estudante de Informática do ensino médio/técnico no IFRN 
 - 🔭 Aprimorando meus conhecimentos em programação constantemente.
 - 💬 Futuro técnico em informática/programador
 - 📫 Entre em contato comigo por email em : kaio.vitor@escolar.ifrn.edu.br
+<br>
 <div align="center">
   <a href="https://github.com/kaiosilva13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiosilva13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
